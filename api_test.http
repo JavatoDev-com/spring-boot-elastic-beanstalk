@@ -1,1 +1,5 @@
-http://development.eba-u8d8gkvq.us-west-2.elasticbeanstalk.com/api/v1/countries
+### READ COUNTRIES
+GET http://localhost:8080/api/v1/countries
+
+### BASE PATH
+GET http://localhost:8080
